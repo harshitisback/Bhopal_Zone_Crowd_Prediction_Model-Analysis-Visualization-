@@ -17,6 +17,8 @@ The performance of each model is assessed using the R-squared metric, and the be
 ![image](https://github.com/harshitisback/Bhopal_Zone_Crowd_Prediction_Model-Analysis-Visualization-/assets/77660268/69b43b82-d49f-43d6-b885-fbc27c5f1159)
 ![image](https://github.com/harshitisback/Bhopal_Zone_Crowd_Prediction_Model-Analysis-Visualization-/assets/77660268/e94d1e60-0af4-4b76-98d2-1d862204a1c6)
 ![image](https://github.com/harshitisback/Bhopal_Zone_Crowd_Prediction_Model-Analysis-Visualization-/assets/77660268/11c5f742-4fbf-4c87-ab63-bbc9e1d53b16)
+![image](https://github.com/harshitisback/Bhopal_Zone_Crowd_Prediction_Model-Analysis-Visualization-/assets/77660268/b8cd9cef-feb9-41aa-bf28-8a1c664f3b4e)
+
 
 ## Prediction Graph
 ![image](https://github.com/harshitisback/Bhopal_Zone_Crowd_Prediction_Model-Analysis-Visualization-/assets/77660268/d31143c8-4b97-4801-b37b-96e9202fbf11)
